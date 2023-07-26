@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <p align="center"> 
-    <img src="https://static.wixstatic.com/media/f77518_3b907e7e3c644206a0f089178d4c6b31~mv2.png/v1/fit/w_2500,h_1330,al_c/f77518_3b907e7e3c644206a0f089178d4c6b31~mv2.png" alt="github" align="center" width="20%" height="20%"/> 
+    <img src="github_logo_orange.png" alt="github" align="center" width="20%" height="20%"/> 
 </p>
 
 <h3 align="center">Storymodelers GitHub repository</h3><br>
