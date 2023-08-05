@@ -59,15 +59,18 @@ The Storymodelers team comprises collaborators from different universities and b
     <td align="center">
       <!--- Add below the info of the person -->
       <img src="https://avatars.githubusercontent.com/u/58085173?v=4" align="center" width="30%" height="30%" /> </br>
-      <b>Joseph Martínez</b>
+      <a href="https://josephmars.github.io"><b>Joseph Martínez</b></a>
+      <a href="https://github.com/josephmars" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="15" />
+      </a>
+        <a href="https://linkedin.com/in/josephmars" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15" />
+      </a>
       <a href="https://twitter.com/joseph_mars7" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="15" />
       </a>
-      <a href="https://linkedin.com/in/josephmars" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15" />
-      </a>
       </br>
-      Modeling and Simulation M.S. Student
+      Modeling and Simulation M.S. Student - ODU
     </td>
     <td align="center">
       <!--- Add below the info of the person -->
